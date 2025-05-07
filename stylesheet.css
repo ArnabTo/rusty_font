@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Ana\'s Rusty Typewriter';
+    src: url('AnasRustyTypewriter.woff2') format('woff2'),
+        url('AnasRustyTypewriter.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
